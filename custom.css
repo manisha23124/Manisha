@@ -1,0 +1,26 @@
+<div class="testimonial-container">
+        <div class="testimonial">
+            <img src="path/to/image1.jpg" alt="User Image" class="testimonial-img">
+            <h2 class="testimonial-title">John Doe</h2>
+            <p class="testimonial-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <div class="testimonial-review">
+                <span>⭐⭐⭐⭐⭐</span>
+            </div>
+        </div>
+        <div class="testimonial">
+            <img src="path/to/image2.jpg" alt="User Image" class="testimonial-img">
+            <h2 class="testimonial-title">Jane Smith</h2>
+            <p class="testimonial-description">Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+            <div class="testimonial-review">
+                <span>⭐⭐⭐⭐⭐</span>
+            </div>
+        </div>
+        <div class="testimonial">
+            <img src="path/to/image3.jpg" alt="User Image" class="testimonial-img">
+            <h2 class="testimonial-title">Alice Johnson</h2>
+            <p class="testimonial-description">Donec ullamcorper nulla non metus auctor fringilla.</p>
+            <div class="testimonial-review">
+                <span>⭐⭐⭐⭐⭐</span>
+            </div>
+        </div>
+    </div>
